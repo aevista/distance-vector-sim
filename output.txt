@@ -1,0 +1,40 @@
+
+
+Router0 converged at 0.125564
+Dest ---- Cost ---- Next Hop
+1          907           1
+2          291           2
+3          931           1
+4          960           2
+
+
+Router1 converged at 0.0767922
+Dest ---- Cost ---- Next Hop
+0          907           0
+2          746           3
+3           24           3
+4          220           3
+
+
+Router2 converged at 0.0517831
+Dest ---- Cost ---- Next Hop
+0          291           0
+1          746           3
+3          722           3
+4          669           4
+
+
+Router3 converged at 0.0517831
+Dest ---- Cost ---- Next Hop
+0          931           1
+1           24           1
+2          722           2
+4          196           4
+
+
+Router4 converged at 0.0767922
+Dest ---- Cost ---- Next Hop
+0          960           2
+1          220           3
+2          669           2
+3          196           3
